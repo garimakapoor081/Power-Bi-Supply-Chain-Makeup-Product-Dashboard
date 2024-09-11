@@ -4,9 +4,9 @@ data related to the movement of products and services from suppliers to customer
 Here is a dataset we collected from a Fashion and Beauty startup. The dataset is based on the supply chain of Makeup products. Below are all the features in the dataset:
 
 1. Dataset Preparation:
-○ Ensure that your dataset contains all the columns mentioned:
+    Ensure that your dataset contains all the columns mentioned:
 2. Create the following visualizations
-. Product Performance Dashboard:
+.  <ul>Product Performance Dashboard:</ul
 3. Supply Chain Efficiency Dashboard
 4. Customer Demographics:
 5. Analysis Questions:
