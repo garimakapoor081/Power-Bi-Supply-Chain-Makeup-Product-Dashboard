@@ -10,7 +10,7 @@ Product Performance Dashboard
 3. Supply Chain Efficiency Dashboard
 4. Customer Demographics:
 5. Analysis Questions
-6.Storytelling
+6. Storytelling
 
 Supply Chain Management Dashboard Power Bi Project Creating a Supply Chain Management (SCM) dashboard in Power Bi involves several steps, from data collection and preprocessing to designing the dashboard itself. Below is a step-by-step guide, including some Power Bi-specific code snippets for calculations and visualizations.
 
