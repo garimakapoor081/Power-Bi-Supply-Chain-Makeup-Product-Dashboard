@@ -18,7 +18,7 @@ Supply Chain Management Dashboard Power Bi Project Creating a Supply Chain Manag
       First, gather and preprocess the data required for the SCM dashboard. Typical data might include information on inventory levels, supplier performance, shipping times, order statuses, etc.
 
 2. Data Preparation in Power Bi
-     Connect to Data Source: Load your data into Tableau. This could be from a CSV file, Excel, a database, or other sources.
+     Connect to Data Source: Load your data into Power Bi This could be from a CSV file, Excel, a database, or other sources.
      Data Cleaning and Transformation: Use Power Bi Prep or the data preparation features within Power Bi Desktop to clean and transform your data as needed.
 3. Key Metrics and Calculations
       Define the key metrics you want to display on the dashboard. Here are some common SCM metrics and their Power Bi calculations
